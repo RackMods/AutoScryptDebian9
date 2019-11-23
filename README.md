@@ -18,7 +18,7 @@
  </p>
 
 <h3 align="center">Installation</h3>
-<h3 align="center">CentOS6x64</h3>
+<h3 align="center">Debian9x64</h3>
 
 <h3 align="center"><font color="red">Server</h3></font>
 <p align="center">
