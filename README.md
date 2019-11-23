@@ -1,7 +1,6 @@
-
 <h1 align="center">AutoScriptVPS<img src="https://img.shields.io/badge/Version-2.0-blue.svg"></h1>
 
-<p align="center">AutoScriptVPS is made by RadzVPN to minimize the time consumed and user involvement in setting up your VPS <b>with blocking the users to use torrents</b></p>
+<p align="center">AutoScriptVPS is made by RN7VPN Tunnel to minimize the time consumed and user involvement in setting up your VPS <b>with blocking the users to use torrents</b></p>
 <h3 align="center">Services</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Service-OpenSSH-green.svg"></a>
@@ -23,5 +22,5 @@
 
 <h3 align="center"><font color="red">Server</h3></font>
 <p align="center">
-<b>apt update && apt-get -y install git && git clone https://github.com/radzvpnpromhuradz212bystevgmail/openvpndeb && cd openvpndeb && chmod +x openvpn.sh && ./openvpn.sh</b>
-  </p>
+<b>apt update && apt-get -y install git && git clone https://github.com/RackMods/autoscryptdebian9 && cd openvpndeb && chmod +x openvpn.sh && ./openvpn.sh</b>
+</p>
